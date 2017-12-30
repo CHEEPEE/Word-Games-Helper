@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Word Games Helper</string>
+    <string name="admob_app_id">ca-app-pub-8579906727886601~8967609018</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8579906727886601/4017754413</string>
+    <string name="title_activity_bubble">BubbleActivity</string>
+    <string name="rewarded_video_id">ca-app-pub-8579906727886601/6800664576</string>
+    <string name="another_ad_id">ca-app-pub-8579906727886601/8170544424</string>
+</resources>
